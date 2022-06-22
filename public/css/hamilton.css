@@ -1,3 +1,6 @@
+body{
+  background-color: rgb(169, 208, 243);
+}
 .subtitulos{
   display: inline-block;
   width: 10%;
@@ -16,4 +19,9 @@
 }
 #titulo{
   text-align: center;
+}
+#imagenHamilton{
+  text-align: center;
+  margin-top: 20px;
+  height: 100px;
 }
