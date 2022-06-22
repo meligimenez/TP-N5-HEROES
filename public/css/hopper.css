@@ -8,12 +8,9 @@ body{
   font-size: large;
   color: rgb(169, 208, 243);
   font-weight:bold;
-
-  
 }
 #navSubtitulos{
   background-color: black;
-  line-height: 10%;
   text-align: center;
   line-height: 50px;
 }
