@@ -1,28 +1,42 @@
-body{
+body {
   background-color: rgb(239, 176, 255);
 }
-.subtitulos{
+
+.subtitulos {
   display: inline-block;
   width: 10%;
   font-family: Arial, Helvetica, sans-serif;
   font-size: large;
   color: rgb(221, 86, 255);
-  font-weight:bold;
+  font-weight: bold;
 }
-#navSubtitulos{
+
+#navSubtitulos {
   background-color: black;
   text-align: center;
   line-height: 50px;
 }
-#titulo{
+
+#titulo {
   text-align: center;
 }
-#imagenesInicio{
+
+#imagenesInicio {
   text-align: center;
 }
-.imagenesDeInicio{
+
+.imagenesDeInicio {
   height: 400px;
   margin-top: 20px;
   margin-left: 20px;
-  
+}
+
+#imagenPersonaje {
+  text-align: center;
+  margin-top: 20px;
+  height: 300px;
+}
+
+.imagenPersonaje {
+  height: 300px;
 }
