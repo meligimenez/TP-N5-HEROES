@@ -8,8 +8,6 @@ body{
   font-size: large;
   color: rgb(169, 208, 243);
   font-weight:bold;
-
-  
 }
 #navSubtitulos{
   background-color: black;
@@ -23,5 +21,5 @@ body{
 #imagenBabbage{
   text-align: center;
   margin-top: 20px;
-  height: 100px;
 }
+
